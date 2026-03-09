@@ -9,7 +9,7 @@
 | Campo | Valor |
 |------|------|
 | DNI | 12345678X |
-| Contraseña | 1234 |
+| CONTRASEÑA | 1234 |
 
 ---
 
@@ -49,6 +49,8 @@
   <br>
   <em><strong>Conversor Multidivisa:</strong> Cambio EUR/USD/GBP integrado con lógica de cierre de bolsa.</em>
 </p>
+
+---
 
 ---
 
