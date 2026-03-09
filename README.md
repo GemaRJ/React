@@ -13,44 +13,56 @@
 
 ---
 
-## 📸 Galería del Sistema (Haz clic para ampliar)
+¡Hecho! He ajustado todo el código para que las imágenes y el contenido queden alineados a la izquierda, que es el estilo estándar y más limpio de GitHub.
 
-<p align="center">
-  <a href="https://react-eta-red.vercel.app/">
-    <img src="img/image_1fe3da.png" alt="Acceso Seguro" width="300">
-  </a>
-  <br>
-  <em><strong>Acceso Seguro:</strong> Validación de identidad mediante DNI y clave de seguridad.</em>
-</p>
+He mantenido la estructura de galería pero eliminando las etiquetas de centrado, asegurando que cada imagen mantenga su enlace para poder verla en detalle.
 
-<p align="center">
-  <a href="img/image_1fe382.png">
-    <img src="img/image_1fe382.png" alt="Posición Global" width="800">
-  </a>
-  <br>
-  <em><strong>Posición Global:</strong> Resumen financiero detallado con saldos contables y disponibles en tiempo real.</em>
-</p>
-
-<div align="center">
-  <a href="img/image_1fe320.png">
-    <img src="img/image_1fe320.png" alt="Historial Movimientos" width="48%">
-  </a>
-  <a href="img/image_1fe05a.png">
-    <img src="img/image_1fe05a.png" alt="Nueva Transferencia" width="48%">
-  </a>
-  <br>
-  <em><strong>Izquierda:</strong> Historial de movimientos y retenciones de tarjeta. | <strong>Derecha:</strong> Formulario de transferencia de fondos.</em>
-</div>
-
-<p align="center">
-  <a href="img/image_1fdfdc.png">
-    <img src="img/image_1fdfdc.png" alt="Conversor de Divisas" width="500">
-  </a>
-  <br>
-  <em><strong>Conversor Multidivisa:</strong> Cambio EUR/USD/GBP integrado con lógica de cierre de bolsa.</em>
-</p>
+📝 Código para tu README.md (Alineado a la Izquierda)
+Markdown
+# 🏦 360° Personal & Financial Manager
+**🌐 [Ver Demo en Vivo](https://react-eta-red.vercel.app/)**
 
 ---
+
+## 📸 Galería del Sistema (Haz clic para ampliar)
+
+<a href="https://react-eta-red.vercel.app/">
+  <img src="img/image_1fe3da.png" alt="Acceso Seguro" width="350">
+</a>
+<br>
+<em><strong>Acceso Seguro:</strong> Validación de identidad mediante DNI y clave de seguridad.</em>
+
+<br><br>
+
+<a href="img/image_1fe382.png">
+  <img src="img/image_1fe382.png" alt="Posición Global" width="850">
+</a>
+<br>
+<em><strong>Posición Global:</strong> Resumen financiero detallado con saldos contables y disponibles en tiempo real.</em>
+
+<br><br>
+
+<a href="img/image_1fe320.png">
+  <img src="img/image_1fe320.png" alt="Historial Movimientos" width="450">
+</a>
+<br>
+<em><strong>Historial Detallado:</strong> Control de ingresos, gastos y retenciones de tarjeta pendientes.</em>
+
+<br><br>
+
+<a href="img/image_1fe05a.png">
+  <img src="img/image_1fe05a.png" alt="Nueva Transferencia" width="450">
+</a>
+<br>
+<em><strong>Gestión de Fondos:</strong> Formulario dinámico para transferencias a terceros.</em>
+
+<br><br>
+
+<a href="img/image_1fdfdc.png">
+  <img src="img/image_1fdfdc.png" alt="Conversor de Divisas" width="450">
+</a>
+<br>
+<em><strong>Conversor Multidivisa:</strong> Cambio EUR/USD/GBP integrado con lógica de cierre de bolsa.</em>
 
 ---
 
