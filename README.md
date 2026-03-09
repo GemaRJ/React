@@ -1,7 +1,11 @@
-# 🏦 360° Personal & Financial Manager
+## 🏦 Proyecto destacado
 
-**🌐 [Ver Demo en Vivo](https://react-eta-red.vercel.app/)**
+### 360° Personal & Financial Manager
 
+Aplicación web de **gestión financiera personal con lógica bancaria real**.
+
+🌐 **Demo en vivo**  
+https://react-eta-red.vercel.app/
 ---
 
 ### 🔐 Credenciales de prueba
@@ -10,17 +14,6 @@
 |------|------|
 | DNI | 12345678X |
 | CONTRASEÑA | 1234 |
-
----
-
-¡Hecho! He ajustado todo el código para que las imágenes y el contenido queden alineados a la izquierda, que es el estilo estándar y más limpio de GitHub.
-
-He mantenido la estructura de galería pero eliminando las etiquetas de centrado, asegurando que cada imagen mantenga su enlace para poder verla en detalle.
-
-📝 Código para tu README.md (Alineado a la Izquierda)
-Markdown
-# 🏦 360° Personal & Financial Manager
-**🌐 [Ver Demo en Vivo](https://react-eta-red.vercel.app/)**
 
 ---
 
