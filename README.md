@@ -17,6 +17,12 @@ https://react-eta-red.vercel.app/
 
 ---
 
+## 📸 Galería del Proyecto
+
+**[Ver fotos del sistema](https://github.com/GemaRJ/React/tree/main/Im%C3%A1genes%20Demo%20Banco)**
+
+--- 
+
 ## 🎯 Origen y Motivación
 Este proyecto nace de una trayectoria profesional en el sector bancario y el deseo de trasladar esos conocimientos de lógica financiera al desarrollo de aplicaciones modernas. La herramienta no es solo un gestor de datos, sino un ecosistema construido bajo estándares de rigor contable y seguridad visual, diseñado para perfiles Senior, Familiares y Estudiantes.
 
